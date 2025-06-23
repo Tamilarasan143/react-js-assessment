@@ -2,12 +2,6 @@
 
 A fully responsive and validated sign-up/login system built with React, TypeScript, and Material UI. The app includes local user storage, real-time form validation, and smooth navigation using React Router.
 
-🚀 Live Demo
-🔗 View Live App
-
-📂 GitHub Repository
-🔗 View on GitHub
-
 ✨ Features
 🔐 Email & password authentication
 
@@ -55,6 +49,11 @@ React Router DOM	Page navigation and routing
 ### 📊 Dashboard
 ![Dashboard](./src/assets/dashboard.png)
 
+## GitHub Repo
+
+[https://github.com/Tamilarasan143/react-js-assessment.git](https://github.com/Tamilarasan143/react-js-assessment.git)
+
+
 ```bash
 Copy
 Edit
@@ -84,8 +83,9 @@ src/
 ```
 
 
-# Author
+## Author
 Tamilarasan Elumalai
 
-Frontend Developer — React, TypeScript, Next.js
-💼 LinkedIn | 🌐 Portfolio
+LinkedIn Profile : [https://www.linkedin.com/in/tamilarasan-elumalai-785134229](https://www.linkedin.com/in/tamilarasan-elumalai-785134229)                                  
+
+GitHub Profile: [https://github.com/Tamilarasan143](https://github.com/Tamilarasan143)
